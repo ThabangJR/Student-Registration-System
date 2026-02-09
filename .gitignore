@@ -1,0 +1,17 @@
+
+database.php
+
+
+deleted_log.txt
+*.log
+npm-debug.log*
+
+
+*.pdf
+
+
+
+.DS_Store
+Thumbs.db
+
+node_modules/
