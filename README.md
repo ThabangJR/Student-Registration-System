@@ -15,12 +15,9 @@ A comprehensive PHP & MySQL web application designed to manage student records, 
 
 🛠️ Tech Stack
 Backend: PHP
-
 Database: MySQL
-
 Frontend: HTML, CSS (styles.css), JavaScript (StudentDashboard.js)
-
-Server Logic: Node.js (server.js) — Note: Clarify if this is for real-time features or an API.
+Server Logic: Node.js (server.js) — for real-time features and API funtionality.
 
 📁 Project Structure
 -index.php: The main entry point/login page.
