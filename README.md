@@ -3,15 +3,15 @@
 A comprehensive PHP & MySQL web application designed to manage student records, track registrations, and generate academic profile reports. This system provides a full CRUD (Create, Read, Update, Delete) interface with a dedicated management dashboard.
 
 🚀 Features
-# Student Registration: Securely register new students into the system.
+-Student Registration: Securely register new students into the system.
 
-# Management Dashboard: A centralized hub to view and manage all student data.
+-Management Dashboard: A centralized hub to view and manage all student data.
 
-# Full CRUD Functionality: Ability to update student information and delete records with automated logging.
+-Full CRUD Functionality: Ability to update student information and delete records with automated logging.
 
-# PDF Report Generation: Generates professional Profile Summary and Registration Confirmation reports (as seen in the Thabang Mohale examples).
+-PDF Report Generation: Generates professional Profile Summary and Registration Confirmation reports (as seen in the Thabang Mohale examples).
 
-# Activity Logging: Tracks deletions in deleted_log.txt for administrative oversight.
+-Activity Logging: Tracks deletions in deleted_log.txt for administrative oversight.
 
 🛠️ Tech Stack
 Backend: PHP
@@ -23,13 +23,13 @@ Frontend: HTML, CSS (styles.css), JavaScript (StudentDashboard.js)
 Server Logic: Node.js (server.js) — Note: Clarify if this is for real-time features or an API.
 
 📁 Project Structure
-index.php: The main entry point/login page.
+-index.php: The main entry point/login page.
 
-student_management_dashboard.php: The primary administrative interface.
+-student_management_dashboard.php: The primary administrative interface.
 
-database.php: Handles the connection logic to the MySQL database.
+-database.php: Handles the connection logic to the MySQL database.
 
-delete_function.php & update_student_info.php: Backend logic for data manipulation.
+-delete_function.php & update_student_info.php: Backend logic for data manipulation.
 
 ⚙️ Installation & Setup
 Clone the repository:
