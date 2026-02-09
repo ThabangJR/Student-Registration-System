@@ -3,15 +3,15 @@
 A comprehensive PHP & MySQL web application designed to manage student records, track registrations, and generate academic profile reports. This system provides a full CRUD (Create, Read, Update, Delete) interface with a dedicated management dashboard.
 
 🚀 Features
-Student Registration: Securely register new students into the system.
+# Student Registration: Securely register new students into the system.
 
-Management Dashboard: A centralized hub to view and manage all student data.
+# Management Dashboard: A centralized hub to view and manage all student data.
 
-Full CRUD Functionality: Ability to update student information and delete records with automated logging.
+# Full CRUD Functionality: Ability to update student information and delete records with automated logging.
 
-PDF Report Generation: Generates professional Profile Summary and Registration Confirmation reports (as seen in the Thabang Mohale examples).
+# PDF Report Generation: Generates professional Profile Summary and Registration Confirmation reports (as seen in the Thabang Mohale examples).
 
-Activity Logging: Tracks deletions in deleted_log.txt for administrative oversight.
+# Activity Logging: Tracks deletions in deleted_log.txt for administrative oversight.
 
 🛠️ Tech Stack
 Backend: PHP
